@@ -1,6 +1,14 @@
 ## Hi there 👋
 
 <!--
+<img src="assets/AWS.png" width="85" height="85"/>
+<img src="assets/SAS_BI.png" width="85" height="85"/>
+<img src="assets/python_viz.png" width="85" height="85"/>
+<img src="assets/R_viz.png" width="85" height="85"/>
+<img src="assets/Tableau_viz.png" width="85" height="85"/>
+<img src="assets/SQL.png" width="85" height="85"/>
+
+
 **nolan-clark/nolan-clark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
